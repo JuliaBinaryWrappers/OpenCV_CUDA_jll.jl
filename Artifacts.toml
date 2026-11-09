@@ -1,0 +1,104 @@
+[[OpenCV_CUDA]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a2579b24910aa54ef0416c269ce8c89231d73674"
+julia_version = "1.10.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "42ccd9504287271c4d012cb8912549772597fa4b48a4ab3b19d3a1c42b0e53b7"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.10.0.tar.gz"
+[[OpenCV_CUDA]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39bc8299c8aaf2b58d6af3a4cdb7c0ed2a2405ae"
+julia_version = "1.11.1"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "6fdf3f1814b475de32ee4057d78970830a9e8be2eea418b9f3ee9538c028009b"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.11.1.tar.gz"
+[[OpenCV_CUDA]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e4340e1de3c3daa082d0d45b0a0bc0114bff5369"
+julia_version = "1.12.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "5684ae50882cdaab952fb301a25131211fe24652873945102d81e4280b62efbd"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.12.0.tar.gz"
+[[OpenCV_CUDA]]
+arch = "x86_64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3dd9f8e8e4c31dadef53cf26597a929d200a38b4"
+julia_version = "1.13.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "aa2d22842f80f52882f27cd4d3d69631867bc34f1f3c0ccb3ce3093b9494e5d2"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.x86_64-linux-gnu-cxx11-cuda+13.0-julia_version+1.13.0.tar.gz"
+[[OpenCV_CUDA]]
+arch = "aarch64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3f19e26fca0064273e32b86cf738caa5e34733d5"
+julia_version = "1.10.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "ca3c47420e4404e0b965ab257c27daf47db05dbbff22570467b1ba3654a29132"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.aarch64-linux-gnu-cxx11-cuda+13.0-julia_version+1.10.0.tar.gz"
+[[OpenCV_CUDA]]
+arch = "aarch64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3fa154635e6a3db84598e24616e075b23143b177"
+julia_version = "1.11.1"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "3e3d87eb1be7554e2f61e4a587629c382900172f64000049b47c1ecf9ca3265e"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.aarch64-linux-gnu-cxx11-cuda+13.0-julia_version+1.11.1.tar.gz"
+[[OpenCV_CUDA]]
+arch = "aarch64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e68c327127b4535cc3f9cbe4a6721e2bed5eb21d"
+julia_version = "1.12.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "154b8d7868ee74d96c48a0ebbcde75632d415397a4e6563d8d03af0a18a286d1"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.aarch64-linux-gnu-cxx11-cuda+13.0-julia_version+1.12.0.tar.gz"
+[[OpenCV_CUDA]]
+arch = "aarch64"
+cuda = "13.0"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d249b4165ae0e93fd75be6a3b6084344f75b32d5"
+julia_version = "1.13.0"
+lazy = true
+libc = "glibc"
+os = "linux"
+
+    [[OpenCV_CUDA.download]]
+    sha256 = "82e3e712edca5ada11e1f039a01ddddc9f0fe471185d0dd0ece1f5ed697d8bea"
+    url = "https://github.com/JuliaBinaryWrappers/OpenCV_CUDA_jll.jl/releases/download/OpenCV_CUDA-v4.14.0+0/OpenCV_CUDA.v4.14.0.aarch64-linux-gnu-cxx11-cuda+13.0-julia_version+1.13.0.tar.gz"
