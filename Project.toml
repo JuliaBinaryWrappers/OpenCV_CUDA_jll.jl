@@ -1,4 +1,4 @@
-version = "4.14.0+0"
+version = "4.14.0+1"
 name = "OpenCV_CUDA_jll"
 uuid = "af62fff1-f688-5658-924c-c1100684873a"
 
